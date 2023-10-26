@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</div>
+<div id="counter>
+  <img src="https://komarev.com/ghpvc/?username=joncheng-dev&style=flat-square&color=blue" alt="counter for github page viewers"/>
+</div>
 <!--
 **joncheng-dev/joncheng-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
