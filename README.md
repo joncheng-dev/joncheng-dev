@@ -7,7 +7,7 @@
    <a href="https://www.linkedin.com/in/joncheng-dev/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=joncheng-dev&style=flat-square&color=blue" alt="counter for github page viewers"/>
+<!--   <img src="https://komarev.com/ghpvc/?username=joncheng-dev&style=flat-square&color=blue" alt="counter for github page viewers"/> -->
 </div>
 
 
