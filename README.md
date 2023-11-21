@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Jon. I'm currently studying at Epicodus to be a full-stack web developer. 
 
 <div id="badges">
    <a href="mailto:joncheng.dev@gmail.com">
