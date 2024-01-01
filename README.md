@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jon. I'm currently studying at Epicodus to be a web developer. 
+### Hi there 👋 I'm Jon. I'm a student software developer. 
 
 <div id="badges">
    <a href="mailto:joncheng.dev@gmail.com">
