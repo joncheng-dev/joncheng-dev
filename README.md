@@ -1,4 +1,5 @@
-### Hi there 👋 I'm Jon. I'm a student software developer. 
+### Hi there 👋 I'm Jon. Transitioning from a Science Teacher in international schools to a software developer, I bring a wealth of experience in making complex content accessible for young learners. In my software development role, I instinctively prioritize the end user's perspective, focusing on accessibility and user-friendly experiences.
+
 
 <div id="badges">
    <a href="mailto:joncheng.dev@gmail.com">
