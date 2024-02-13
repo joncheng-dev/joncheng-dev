@@ -1,6 +1,3 @@
-### Hi there 👋 I'm Jon. Transitioning from a Science Teacher in international schools to a software developer, I bring a wealth of experience in making complex content accessible for young learners. In my software development role, I instinctively prioritize the end user's perspective, focusing on accessibility and user-friendly experiences.
-
-
 <div id="badges">
    <a href="mailto:joncheng.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
