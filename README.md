@@ -1,3 +1,4 @@
+### Get in Touch
 <div id="badges">
    <a href="mailto:joncheng.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
